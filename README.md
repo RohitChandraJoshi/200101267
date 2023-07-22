@@ -1,4 +1,14 @@
+#front page-
 ![Home_page](https://github.com/RohitChandraJoshi/200101267/assets/102249718/6929e27c-fa55-431d-a3d7-687cf344a8f9)
+
+#single train details
+![Single_train_detail](https://github.com/RohitChandraJoshi/200101267/assets/102249718/a44ad62d-0cce-4fb7-8394-c78715331164)
+
+#single train details
+![single_train_detail2](https://github.com/RohitChandraJoshi/200101267/assets/102249718/71b33ced-5821-4a4c-88fd-1aca9bce94b4)
+
+#Bakend server
+![server_data](https://github.com/RohitChandraJoshi/200101267/assets/102249718/bfa1c6a2-badc-4940-b20a-9e21518f9959)
 
 
 # Getting Started with Create React App
